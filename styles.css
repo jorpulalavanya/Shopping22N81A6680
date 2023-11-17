@@ -2,7 +2,7 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 40px;
     text-align: center;
-    background-color: sky blue;
+    background-color: light blue;
 }
 .product{
     display:grid;
