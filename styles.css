@@ -2,7 +2,7 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 40px;
     text-align: center;
-    background-color: bisque;
+    background-color: blue;
 }
 .product{
     display:grid;
@@ -14,7 +14,7 @@ body {
     height: 30%;
     justify-content: normal;
     align-items: baseline;
-    background-color: rgb(93, 167, 201);
+    background-color:pink;
 }
 .products, .cart {
     float: inline-end;
@@ -27,12 +27,12 @@ body {
     margin-bottom: 20px;
 }
 button {
-    background-color: #af1c83;
+    background-color: grey;
     color: #fff;
     border: none;
     padding: 5px 10px;
     cursor: pointer;
 }
 button:hover {
-    background-color: #d2d42c;
+    background-color: green;
 }
